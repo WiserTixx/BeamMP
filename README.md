@@ -1,4 +1,4 @@
-# BeamMP
+# BeamMP ea
 A Lua mod bringing online multiplayer to [BeamNG.drive](https://beamng.com)!
 
 # Important Links
